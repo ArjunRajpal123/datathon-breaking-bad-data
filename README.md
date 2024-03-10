@@ -8,11 +8,9 @@
     - [Task](#task)
     - [Objectives](#objectives)
     - [Project Structure](#project-structure)
-    - [High-Level Description](#high-level-description)
-      - [Required Data Files in `./data` Directory](#required-data-files-in-data-directory)
-      - [File Functions](#file-functions)
-      - [Authors](#authors)
-      - [Acknowledgements](#acknowledgements)
+  - [Authors](#authors)
+  - [Acknowledgements](#acknowledgements)
+      
 
 ## Goal of this Project
 
