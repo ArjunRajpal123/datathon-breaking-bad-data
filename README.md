@@ -1,6 +1,5 @@
 # Breaking Bad Data Code Submission
 
-
 ## About/Goal of this project
 This folder contains all the files needed for the RAISE-24 Datathon. Sentiment analysis
 
