@@ -43,16 +43,19 @@ Participants will be provided with a dataset containing news headlines related t
     - `preprocessing.ipynb`: Notebook for general data preprocessing steps.
 
 2. **Exploratory Data Analysis (EDA)**
+   Note: We had several people working on the EDA work, hence the seperate files!
+   Keep in mind that we ended up selecting results from all of these in our final report/powerpoint.
     - `EDA_P1.ipynb`: First part of EDA focusing on initial data exploration and simple visualizations.
-    - `EDA_Pt2.ipynb`: Second part of EDA with further exploration and visualizations.
+    - `EDA_P2.ipynb`: Second part of EDA with further exploration and visualizations.
+    - `EDA_P3.ipynb`: Third part of EDA with further exploration and visualizations.
 
-3. **Sentiment Analysis Techniques**
+4. **Sentiment Analysis Techniques**
     - `Vader.ipynb`: Notebook implementing sentiment analysis using the VADER (Valence Aware Dictionary and sEntiment Reasoner) tool.
     - `ZeroShotEmotions.ipynb`: Utilizes zero-shot classification to analyze emotions in the dataset.
     - `zeroShotmodel.ipynb`: Implements a custom zero-shot classification model for sentiment analysis.
     - `lda.ipynb`: Notebook for Latent Dirichlet Allocation (LDA) topic modeling.
 
-4. **Additional Analytics and Visualizations**
+5. **Additional Analytics and Visualizations**
     - `emotion_distributions.ipynb`: Analyzes emotion distributions within the dataset.
     - `visualizations.ipynb`: Provides additional visualizations and analytics.
 
